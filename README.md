@@ -1,2 +1,2 @@
-# Worlwide
+# Worldwide
 Global Custom Site
